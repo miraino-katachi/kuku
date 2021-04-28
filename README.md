@@ -1,6 +1,4 @@
-# kuku
-
-## 【PHP】九九の表
+#  【PHP】九九の表
 
 https://demo.miraino-katachi.com/kuku/
 

@@ -2,6 +2,8 @@
 
 ## 【PHP】九九の表
 
+https://demo.miraino-katachi.com/kuku/
+
 PHPで九九の表を作成します。下記のことを練習できます。
 - HTMLの中にPHPのコードを埋め込む
 - for文のネスト
